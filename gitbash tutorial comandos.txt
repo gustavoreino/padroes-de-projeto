@@ -63,3 +63,4 @@ Verificar minhas branch e puxar coisa atual da main.
 - git fetch: Busca as atualizações do repositório remoto.
 - git merge: Mescla as atualizações com sua branch local.
 }
+
