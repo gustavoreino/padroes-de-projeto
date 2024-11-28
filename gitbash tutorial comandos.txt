@@ -56,5 +56,10 @@ algumas dicas:
 git branch	-> Primeiro, verifique em qual branch você está atualmente.
 git fetch origin	-> Busque as últimas alterações do repositório remoto.
 
-
-
+Verificar minhas branch e puxar coisa atual da main.
+{
+- git checkout main: Garante que você está trabalhando na branch principal.
+- git pull origin main: Combina dois comandos em um:
+- git fetch: Busca as atualizações do repositório remoto.
+- git merge: Mescla as atualizações com sua branch local.
+}
