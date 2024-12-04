@@ -21,7 +21,6 @@ Para contribuir, siga a lógica da estrutura de diretórios:
     * Um diagrama UML contendo o conceito do padrão.
     * Um arquivo `Example.java` contendo o código principal do exemplo implementado.
     * Quaisquer outros arquivos úteis para o exemplo implementado (e.g. `HelperClass.java`).
-    * _(opcional)_ arquivo `class_diagram.{png,jpg}` contendo o diagrama de classes do exemplo.
 4. O diretório do padrão de projeto à ser implementado deve estar dentro da sua respectiva categoria (e.g. _Observer_ deve estar dentro de `src/patterns/behavioral/observer/example1`).
 5. Sinta-se livre para implementar qualquer exemplo.
 
