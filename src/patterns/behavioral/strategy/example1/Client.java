@@ -1,3 +1,5 @@
+package src.patterns.behavioral.strategy.example1;
+
 // Client
 public class Client {
     public static void main(String[] args) {
