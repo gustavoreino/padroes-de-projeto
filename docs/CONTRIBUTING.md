@@ -8,6 +8,10 @@ Para contribuir, siga a lógica da estrutura de diretórios:
 * `src/patterns/structural/` — diretórios e arquivos sobre **padrões de projeto estruturais**.
 * `src/patterns/creational/` — diretórios e arquivos sobre **padrões de projeto criacionais**.
 
+## Estrutura de branch
+O nome de cada branch deve ter o numero da issue seguido do nome do Design Pattern trabalhado na branch.
+Exemplo: 4-Strategy.
+
 ## Implementando exemplos de padrões de projeto
 
 1. **Nomeie diretórios e arquivos em inglês.**
