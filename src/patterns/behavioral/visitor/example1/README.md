@@ -28,4 +28,4 @@ Desvantagens:
 
 
 ## Referências
-Diagrama de classe do conceito e exemplo: https://www.youtube.com/watch?v=UQP5XqMqtqQ.
+Diagrama de classes do conceito e exemplo: https://www.youtube.com/watch?v=UQP5XqMqtqQ.
