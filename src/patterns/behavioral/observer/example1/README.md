@@ -11,3 +11,6 @@ Quando se quer implementar uma relação do tipo um-para-muitos entre objetos su
 ## Desvantagens
 * Quanto mais observadores mais complexo o código se torna.
 * Não existe uma ordem garantida para as notificações.
+
+## Referências
+Diagrama de classes do conceito: https://en.wikipedia.org/wiki/Observer_pattern.
