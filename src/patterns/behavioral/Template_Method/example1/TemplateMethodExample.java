@@ -27,7 +27,7 @@ abstract class Bebida {
 class Cha extends Bebida {
   @Override
   protected void preparar() {
-    System.out.println("DEIXANDO  o chá preparadooon");
+    System.out.println("DEIXANDO  o chá preparadão");
   }
 
   @Override
@@ -55,7 +55,7 @@ public class TemplateMethodExample {
   public static void main(String[] args) {
     System.out.println("Preparando chá:");
     Bebida cha = new Cha();
-    // taca tudo as classe aqui.
+    // taca tudo as FUNÇÕES aqui.
     cha.prepararReceita();
 
     System.out.println("\nPreparando café:");
