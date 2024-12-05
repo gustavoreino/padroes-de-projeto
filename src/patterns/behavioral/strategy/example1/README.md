@@ -28,3 +28,6 @@ Quando o **Client** chama a classe **CalculatorContext** ele escolhe o algoritmo
 * Os clientes precisam estar cientes das diferenças entre as estratégias para poderem selecionar a mais adequada.
 
 * Muitas linguagens de programação modernas possuem suporte a tipos funcionais, permitindo implementar diferentes versões de um algoritmo dentro de um conjunto de funções anônimas. Assim, você pode usar essas funções da mesma forma que usaria os objetos de estratégia, mas sem sobrecarregar seu código com classes e interfaces extras.
+
+## Referências
+Diagrama de classes do conceito: https://en.wikipedia.org/wiki/Strategy_pattern.
