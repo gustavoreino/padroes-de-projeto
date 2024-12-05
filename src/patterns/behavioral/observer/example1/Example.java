@@ -61,7 +61,7 @@ class TermometroCelsius implements Observer  {
   }
 }
 
-public class Main {
+public class Example {
  // o método principal cria uma nova temperatura, adiciona um observador de termômetro em Celsius, e define um novo valor de temperatura.
   public static void  main(String [] args) {
       Temperatura t = new Temperatura();
